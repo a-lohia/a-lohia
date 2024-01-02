@@ -14,6 +14,7 @@ Worked with before:
 
 Currently Learning:
 - C/C++
+- MATLAB
 - ROS/µROS
 - Vue3
 
