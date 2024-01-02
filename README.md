@@ -8,11 +8,17 @@ I’m always ready to jump into learning something new, and am comfortable learn
 I have also been interning at the [Parsa Research Lab](https://mason.gmu.edu/~mparsa/) at George Mason University working on image processing algorithms.
 
 Worked with before:
+
+![My Skills](https://skillicons.dev/icons?i=python) ![My Skills](https://skillicons.dev/icons?i=java) ![My Skills](https://skillicons.dev/icons?i=flutter)
+
 - Python (NumPy, PyTorch, Jupyter, Flask)
 - Java
 - Flutter/Dart
 
 Currently Learning:
+
+![My Skills](https://skillicons.dev/icons?i=c) ![My Skills](https://skillicons.dev/icons?i=cpp) ![My Skills](https://skillicons.dev/icons?i=matlab) ![My Skills](https://skillicons.dev/icons?i=ros) ![My Skills](https://skillicons.dev/icons?i=vue)
+
 - C/C++
 - MATLAB
 - ROS/µROS
