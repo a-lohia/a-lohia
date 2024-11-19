@@ -2,7 +2,7 @@
 
 I’m Arya Lohia, a student studying Engineering and Robotics at Carnegie Mellon University.
 
-My interests lie in the intersections of many fields, including Math, Science, Computer Science, Art, and more. I love business and management, and have managed several projects/teams, including [Daedalus Robotics](https://github.com/Daedalus-Robotics)–which has won both first and second prize at the national competition (in successive years).
+My interests lie in the intersections of many fields, including Math, Science, Computer Science, Art, and more. I love business and management, and have managed several projects/teams, including [Daedalus Robotics](https://daedalusavr.weebly.com)–which has won both first and second prize at the national competition (in successive years).
 I’m always ready to jump into learning something new, and am comfortable learning on the job.
 
 I have completed several internships and projects, including at [DroneBlocks](https://droneblocks.io/?srsltid=AfmBOoqoDPsTc2tDeZzhPUyq87-n2WMh_tJRnVPchNp3-vQH170K6WlM) (building and testing education drone prototypes) and [Parsa Research Lab](https://mason.gmu.edu/~mparsa/) at George Mason University working on image processing algorithms.
