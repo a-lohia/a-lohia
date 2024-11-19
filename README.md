@@ -1,13 +1,13 @@
 ### Hi there, I'm Arya. 
 
-I’m Arya Lohia, a current senior at [Ideaventions Academy](https://www.ideaventionsacademy.org/) in Reston, Virginia.
+I’m Arya Lohia, a student studying Engineering and Robotics at Carnegie Mellon University.
 
-My interests lie in the intersections of many fields, including Math, Science, Computer Science, Art, and more. I am interested in management, and have managed several projects/teams, including [Daedalus Robotics](https://github.com/Daedalus-Robotics)–which has won both first and second prize at the national competition (in successive years)–and a school store.
+My interests lie in the intersections of many fields, including Math, Science, Computer Science, Art, and more. I love business and management, and have managed several projects/teams, including [Daedalus Robotics](https://github.com/Daedalus-Robotics)–which has won both first and second prize at the national competition (in successive years).
 I’m always ready to jump into learning something new, and am comfortable learning on the job.
 
-I have also been interning at the [Parsa Research Lab](https://mason.gmu.edu/~mparsa/) at George Mason University working on image processing algorithms.
+I have completed several internships and projects, including at [DroneBlocks](https://droneblocks.io/?srsltid=AfmBOoqoDPsTc2tDeZzhPUyq87-n2WMh_tJRnVPchNp3-vQH170K6WlM) (building and testing education drone prototypes) and [Parsa Research Lab](https://mason.gmu.edu/~mparsa/) at George Mason University working on image processing algorithms.
 
-Worked with before:
+I have experience working on several hardware and software-involved projects and have experience with the following languages:
 
 ![My Skills](https://skillicons.dev/icons?i=python) ![My Skills](https://skillicons.dev/icons?i=java) ![My Skills](https://skillicons.dev/icons?i=flutter)
 
