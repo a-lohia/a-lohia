@@ -1,4 +1,4 @@
-### Hi there, I'm Arya. 
+### Hi there, I'm Arya. I love building stuff.
 
 I’m Arya Lohia, a student studying Engineering and Robotics at Carnegie Mellon University.
 
